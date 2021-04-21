@@ -4,8 +4,6 @@ Hotel Management System
 Introduction:
 The developers decided to work on a Hotel Management program with a C++ Graphical User Interface. The developers decided to use C++ using Visual Studio to create the management application with a working Graphical User Interface.
 
-Software used - Visual Studio
-
 Dependencies used:
 1. Windows 10 operating system
 2. C++ programming language
