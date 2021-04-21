@@ -1,0 +1,6 @@
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxproj.GenerateResource.cache
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxprojAssemblyReference.cache
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxproj.CopyComplete
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.LoginForm.resources
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.MenuForm.resources
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.RegisterForm.resources
