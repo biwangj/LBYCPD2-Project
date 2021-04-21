@@ -6,6 +6,11 @@ The developers decided to work on a Hotel Management program with a C++ Graphica
 
 Software used - Visual Studio
 
+Dependencies used:
+1. Windows 10 operating system
+2. C++ programming language
+3. Visual Studio IDE
+
 How to Use: (Not yet complete)
 1. For new users, register from the register menu and for admi users, login from the main login menu.
 2. Choose transaction from the options given.
