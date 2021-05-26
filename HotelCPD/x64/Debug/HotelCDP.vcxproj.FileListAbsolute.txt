@@ -1,0 +1,49 @@
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxproj.GenerateResource.cache
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxprojAssemblyReference.cache
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.vcxproj.CopyComplete
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.LoginForm.resources
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.MenuForm.resources
+C:\Users\Lance\source\repos\HotelCDP\HotelCDP\x64\Debug\HotelCDP.RegisterForm.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.vcxprojAssemblyReference.cache
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.LoginForm.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.MenuForm.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.RegisterForm.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.vcxproj.GenerateResource.cache
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.vcxproj.CopyComplete
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.adminlogin.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.AdminMenu.resources
+F:\Download\HotelCDP2\HotelCDP\x64\Debug\HotelCDP.adminreg.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxprojAssemblyReference.cache
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.AddRoom.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.adminlogin.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.AdminMenu.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.adminreg.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.BookRoom.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.BookWindow.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.DeleteRoom.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.LoginForm.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.MenuForm.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ModifyRoom.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.RegisterForm.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ViewRoom.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxproj.GenerateResource.cache
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxproj.CopyComplete
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.CheckOut.resources
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ViewBooking.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxprojAssemblyReference.cache
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.AddRoom.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.adminlogin.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.AdminMenu.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.adminreg.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.BookRoom.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.BookWindow.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.CheckOut.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.DeleteRoom.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.LoginForm.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.MenuForm.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ModifyRoom.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.RegisterForm.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ViewBooking.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.ViewRoom.resources
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxproj.GenerateResource.cache
+C:\Users\JHUNGIE\OneDrive\Desktop\HotelCDP4\HotelCDP\x64\Debug\HotelCDP.vcxproj.CopyComplete

@@ -1,0 +1,14 @@
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.vcxprojAssemblyReference.cache
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.adminlogin.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.AdminMenu.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.adminreg.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.LoginForm.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.MenuForm.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.RegisterForm.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.vcxproj.GenerateResource.cache
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.vcxproj.CopyComplete
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.AddRoom.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.BookWindow.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.ViewRoom.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.DeleteRoom.resources
+F:\Download\HotelCDP2\HotelCDP\Debug\HotelCDP.ModifyRoom.resources
