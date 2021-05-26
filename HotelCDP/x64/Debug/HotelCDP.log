@@ -1,6 +1,0 @@
-﻿  LoginForm.cpp
-C:\Users\Lance\source\repos\HotelCDP\HotelCDP\RegisterForm.h(252,22): warning C4101: 'e': unreferenced local variable
-  The contents of <any> are available only with C++17 or later.
-C:\Users\Lance\source\repos\HotelCDP\HotelCDP\LoginForm.h(209,21): warning C4101: 'e': unreferenced local variable
-  LoginForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  HotelCDP.vcxproj -> C:\Users\Lance\source\repos\HotelCDP\x64\Debug\HotelCDP.exe
