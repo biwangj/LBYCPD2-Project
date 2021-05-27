@@ -1,0 +1,51 @@
+﻿  AddRoom.cpp
+  The contents of <any> are available only with C++17 or later.
+F:\Download\HotelCDP2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+  AdminMenu.cpp
+  The contents of <any> are available only with C++17 or later.
+F:\Download\HotelCDP2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(291,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(305,21): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(336,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(376,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(394,20): warning C4101: 'e': unreferenced local variable
+  LoginForm.cpp
+  The contents of <any> are available only with C++17 or later.
+F:\Download\HotelCDP2\HotelCDP\RegisterForm.h(260,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(291,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(305,21): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(336,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(376,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(394,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\LoginForm.h(235,21): warning C4101: 'e': unreferenced local variable
+  MenuForm.cpp
+  The contents of <any> are available only with C++17 or later.
+F:\Download\HotelCDP2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(291,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(305,21): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(336,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(376,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(394,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
+  adminlogin.cpp
+  The contents of <any> are available only with C++17 or later.
+F:\Download\HotelCDP2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(291,22): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(305,21): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(336,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(376,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\ModifyRoom.h(394,20): warning C4101: 'e': unreferenced local variable
+F:\Download\HotelCDP2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  AddRoom.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HotelCDP.vcxproj -> F:\Download\HotelCDP2\Debug\HotelCDP.exe
