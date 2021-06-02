@@ -91,17 +91,19 @@ namespace HotelCDP {
 			// pictureBox1
 			// 
 			this->pictureBox1->BackgroundImage = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox1.BackgroundImage")));
-			this->pictureBox1->Location = System::Drawing::Point(-294, -25);
+			this->pictureBox1->Location = System::Drawing::Point(-224, -5);
+			this->pictureBox1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(688, 357);
+			this->pictureBox1->Size = System::Drawing::Size(1057, 511);
 			this->pictureBox1->TabIndex = 0;
 			this->pictureBox1->TabStop = false;
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(72, 27);
+			this->button1->Location = System::Drawing::Point(253, 34);
+			this->button1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(99, 37);
+			this->button1->Size = System::Drawing::Size(132, 46);
 			this->button1->TabIndex = 1;
 			this->button1->Text = L"Add Room";
 			this->button1->UseVisualStyleBackColor = true;
@@ -109,9 +111,10 @@ namespace HotelCDP {
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(72, 82);
+			this->button2->Location = System::Drawing::Point(253, 107);
+			this->button2->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button2->Name = L"button2";
-			this->button2->Size = System::Drawing::Size(99, 37);
+			this->button2->Size = System::Drawing::Size(132, 46);
 			this->button2->TabIndex = 2;
 			this->button2->Text = L"Delete Room";
 			this->button2->UseVisualStyleBackColor = true;
@@ -119,9 +122,10 @@ namespace HotelCDP {
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(72, 136);
+			this->button3->Location = System::Drawing::Point(253, 185);
+			this->button3->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(99, 37);
+			this->button3->Size = System::Drawing::Size(132, 46);
 			this->button3->TabIndex = 3;
 			this->button3->Text = L"Modify Room";
 			this->button3->UseVisualStyleBackColor = true;
@@ -129,9 +133,10 @@ namespace HotelCDP {
 			// 
 			// button4
 			// 
-			this->button4->Location = System::Drawing::Point(72, 189);
+			this->button4->Location = System::Drawing::Point(253, 260);
+			this->button4->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button4->Name = L"button4";
-			this->button4->Size = System::Drawing::Size(99, 37);
+			this->button4->Size = System::Drawing::Size(132, 46);
 			this->button4->TabIndex = 4;
 			this->button4->Text = L"Display Rooms";
 			this->button4->UseVisualStyleBackColor = true;
@@ -140,9 +145,10 @@ namespace HotelCDP {
 			// button5
 			// 
 			this->button5->BackgroundImageLayout = System::Windows::Forms::ImageLayout::None;
-			this->button5->Location = System::Drawing::Point(12, 295);
+			this->button5->Location = System::Drawing::Point(16, 363);
+			this->button5->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button5->Name = L"button5";
-			this->button5->Size = System::Drawing::Size(75, 23);
+			this->button5->Size = System::Drawing::Size(100, 28);
 			this->button5->TabIndex = 5;
 			this->button5->Text = L"Back";
 			this->button5->UseVisualStyleBackColor = true;
@@ -150,9 +156,10 @@ namespace HotelCDP {
 			// 
 			// button6
 			// 
-			this->button6->Location = System::Drawing::Point(72, 241);
+			this->button6->Location = System::Drawing::Point(253, 345);
+			this->button6->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button6->Name = L"button6";
-			this->button6->Size = System::Drawing::Size(99, 38);
+			this->button6->Size = System::Drawing::Size(132, 47);
 			this->button6->TabIndex = 6;
 			this->button6->Text = L"Register Admin Account";
 			this->button6->UseVisualStyleBackColor = true;
@@ -160,9 +167,9 @@ namespace HotelCDP {
 			// 
 			// AdminMenu
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(245, 330);
+			this->ClientSize = System::Drawing::Size(629, 434);
 			this->Controls->Add(this->button6);
 			this->Controls->Add(this->button5);
 			this->Controls->Add(this->button4);
@@ -171,16 +178,17 @@ namespace HotelCDP {
 			this->Controls->Add(this->button1);
 			this->Controls->Add(this->pictureBox1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->Name = L"AdminMenu";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"AdminMenu";
+			this->Text = L"Admin Menu";
 			this->Load += gcnew System::EventHandler(this, &AdminMenu::AdminMenu_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
 			this->ResumeLayout(false);
 
 		}
 #pragma endregion
-		String^ connString = "Server=localhost;port=3306;database=admin_details;uid=root;password=amen";
+		String^ connString = "Server=localhost;port=3306;database=admin_details;uid=root;password=admin1234";
 		MySqlConnection^ conn = gcnew MySqlConnection(connString);
 	private: System::Void AdminMenu_Load(System::Object^ sender, System::EventArgs^ e) {
 

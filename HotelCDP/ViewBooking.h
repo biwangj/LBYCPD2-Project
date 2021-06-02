@@ -72,9 +72,11 @@ namespace HotelCDP {
 			this->dataGridView1->AllowUserToAddRows = false;
 			this->dataGridView1->AllowUserToDeleteRows = false;
 			this->dataGridView1->ColumnHeadersHeightSizeMode = System::Windows::Forms::DataGridViewColumnHeadersHeightSizeMode::AutoSize;
-			this->dataGridView1->Location = System::Drawing::Point(12, 12);
+			this->dataGridView1->Location = System::Drawing::Point(16, 15);
+			this->dataGridView1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->dataGridView1->Name = L"dataGridView1";
-			this->dataGridView1->Size = System::Drawing::Size(754, 384);
+			this->dataGridView1->RowHeadersWidth = 51;
+			this->dataGridView1->Size = System::Drawing::Size(1005, 473);
 			this->dataGridView1->TabIndex = 3;
 			this->dataGridView1->CellContentClick += gcnew System::Windows::Forms::DataGridViewCellEventHandler(this, &ViewBooking::dataGridView1_CellContentClick);
 			// 
@@ -82,17 +84,19 @@ namespace HotelCDP {
 			// 
 			this->pictureBox1->BackgroundImage = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox1.BackgroundImage")));
 			this->pictureBox1->BackgroundImageLayout = System::Windows::Forms::ImageLayout::Stretch;
-			this->pictureBox1->Location = System::Drawing::Point(-179, -67);
+			this->pictureBox1->Location = System::Drawing::Point(-239, -82);
+			this->pictureBox1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(1107, 572);
+			this->pictureBox1->Size = System::Drawing::Size(1476, 704);
 			this->pictureBox1->TabIndex = 2;
 			this->pictureBox1->TabStop = false;
 			// 
 			// backbuton
 			// 
-			this->backbuton->Location = System::Drawing::Point(13, 405);
+			this->backbuton->Location = System::Drawing::Point(17, 498);
+			this->backbuton->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->backbuton->Name = L"backbuton";
-			this->backbuton->Size = System::Drawing::Size(70, 26);
+			this->backbuton->Size = System::Drawing::Size(93, 32);
 			this->backbuton->TabIndex = 4;
 			this->backbuton->Text = L"Back";
 			this->backbuton->UseVisualStyleBackColor = true;
@@ -100,16 +104,17 @@ namespace HotelCDP {
 			// 
 			// ViewBooking
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(778, 440);
+			this->ClientSize = System::Drawing::Size(1037, 542);
 			this->Controls->Add(this->backbuton);
 			this->Controls->Add(this->dataGridView1);
 			this->Controls->Add(this->pictureBox1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->Name = L"ViewBooking";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"ViewBooking";
+			this->Text = L"Bookings";
 			this->Load += gcnew System::EventHandler(this, &ViewBooking::ViewBooking_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
@@ -117,7 +122,7 @@ namespace HotelCDP {
 
 		}
 #pragma endregion
-		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=amen";
+		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=admin1234";
 		MySqlConnection^ conn = gcnew MySqlConnection(connString);
 	private: System::Void ViewBooking_Load(System::Object^ sender, System::EventArgs^ e) {
 		try {

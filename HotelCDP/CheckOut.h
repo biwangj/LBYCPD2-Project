@@ -159,57 +159,64 @@ namespace HotelCDP {
 			// 
 			// mnum
 			// 
-			this->mnum->Location = System::Drawing::Point(125, 120);
+			this->mnum->Location = System::Drawing::Point(167, 148);
+			this->mnum->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->mnum->Name = L"mnum";
-			this->mnum->Size = System::Drawing::Size(156, 20);
+			this->mnum->Size = System::Drawing::Size(207, 22);
 			this->mnum->TabIndex = 65;
 			this->mnum->TextChanged += gcnew System::EventHandler(this, &CheckOut::mnum_TextChanged);
 			// 
 			// ccode
 			// 
-			this->ccode->Location = System::Drawing::Point(125, 357);
+			this->ccode->Location = System::Drawing::Point(167, 439);
+			this->ccode->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->ccode->Name = L"ccode";
-			this->ccode->Size = System::Drawing::Size(156, 20);
+			this->ccode->Size = System::Drawing::Size(207, 22);
 			this->ccode->TabIndex = 64;
 			this->ccode->TextChanged += gcnew System::EventHandler(this, &CheckOut::ccode_TextChanged);
 			// 
 			// ccnum
 			// 
-			this->ccnum->Location = System::Drawing::Point(125, 290);
+			this->ccnum->Location = System::Drawing::Point(167, 357);
+			this->ccnum->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->ccnum->Name = L"ccnum";
-			this->ccnum->Size = System::Drawing::Size(156, 20);
+			this->ccnum->Size = System::Drawing::Size(207, 22);
 			this->ccnum->TabIndex = 63;
 			this->ccnum->TextChanged += gcnew System::EventHandler(this, &CheckOut::ccnum_TextChanged);
 			// 
 			// expdate
 			// 
-			this->expdate->Location = System::Drawing::Point(125, 322);
+			this->expdate->Location = System::Drawing::Point(167, 396);
+			this->expdate->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->expdate->Name = L"expdate";
-			this->expdate->Size = System::Drawing::Size(156, 20);
+			this->expdate->Size = System::Drawing::Size(207, 22);
 			this->expdate->TabIndex = 58;
 			this->expdate->TextChanged += gcnew System::EventHandler(this, &CheckOut::expdate_TextChanged);
 			// 
 			// dateout
 			// 
-			this->dateout->Location = System::Drawing::Point(125, 191);
+			this->dateout->Location = System::Drawing::Point(167, 235);
+			this->dateout->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->dateout->Name = L"dateout";
-			this->dateout->Size = System::Drawing::Size(156, 20);
+			this->dateout->Size = System::Drawing::Size(207, 22);
 			this->dateout->TabIndex = 57;
 			this->dateout->ValueChanged += gcnew System::EventHandler(this, &CheckOut::dateout_ValueChanged);
 			// 
 			// datein
 			// 
-			this->datein->Location = System::Drawing::Point(125, 158);
+			this->datein->Location = System::Drawing::Point(167, 194);
+			this->datein->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->datein->Name = L"datein";
-			this->datein->Size = System::Drawing::Size(156, 20);
+			this->datein->Size = System::Drawing::Size(207, 22);
 			this->datein->TabIndex = 56;
 			this->datein->ValueChanged += gcnew System::EventHandler(this, &CheckOut::datein_ValueChanged);
 			// 
 			// button2
 			// 
-			this->button2->Location = System::Drawing::Point(27, 390);
+			this->button2->Location = System::Drawing::Point(36, 480);
+			this->button2->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button2->Name = L"button2";
-			this->button2->Size = System::Drawing::Size(75, 23);
+			this->button2->Size = System::Drawing::Size(100, 28);
 			this->button2->TabIndex = 55;
 			this->button2->Text = L"Back";
 			this->button2->UseVisualStyleBackColor = true;
@@ -217,9 +224,10 @@ namespace HotelCDP {
 			// 
 			// button1
 			// 
-			this->button1->Location = System::Drawing::Point(206, 390);
+			this->button1->Location = System::Drawing::Point(275, 480);
+			this->button1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(75, 23);
+			this->button1->Size = System::Drawing::Size(100, 28);
 			this->button1->TabIndex = 54;
 			this->button1->Text = L"Check In!";
 			this->button1->UseVisualStyleBackColor = true;
@@ -228,9 +236,10 @@ namespace HotelCDP {
 			// label10
 			// 
 			this->label10->AutoSize = true;
-			this->label10->Location = System::Drawing::Point(24, 360);
+			this->label10->Location = System::Drawing::Point(32, 443);
+			this->label10->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label10->Name = L"label10";
-			this->label10->Size = System::Drawing::Size(59, 13);
+			this->label10->Size = System::Drawing::Size(76, 17);
 			this->label10->TabIndex = 53;
 			this->label10->Text = L"CVC Code:";
 			this->label10->Click += gcnew System::EventHandler(this, &CheckOut::label10_Click);
@@ -238,9 +247,10 @@ namespace HotelCDP {
 			// label9
 			// 
 			this->label9->AutoSize = true;
-			this->label9->Location = System::Drawing::Point(24, 322);
+			this->label9->Location = System::Drawing::Point(32, 396);
+			this->label9->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label9->Name = L"label9";
-			this->label9->Size = System::Drawing::Size(64, 13);
+			this->label9->Size = System::Drawing::Size(84, 17);
 			this->label9->TabIndex = 52;
 			this->label9->Text = L"Expiry Date:";
 			this->label9->Click += gcnew System::EventHandler(this, &CheckOut::label9_Click);
@@ -248,9 +258,10 @@ namespace HotelCDP {
 			// label8
 			// 
 			this->label8->AutoSize = true;
-			this->label8->Location = System::Drawing::Point(24, 293);
+			this->label8->Location = System::Drawing::Point(32, 361);
+			this->label8->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label8->Name = L"label8";
-			this->label8->Size = System::Drawing::Size(64, 13);
+			this->label8->Size = System::Drawing::Size(84, 17);
 			this->label8->TabIndex = 51;
 			this->label8->Text = L"CC Number:";
 			this->label8->Click += gcnew System::EventHandler(this, &CheckOut::label8_Click);
@@ -259,44 +270,49 @@ namespace HotelCDP {
 			// 
 			this->cctype->FormattingEnabled = true;
 			this->cctype->Items->AddRange(gcnew cli::array< System::Object^  >(2) { L"Visa", L"Mastercard" });
-			this->cctype->Location = System::Drawing::Point(125, 257);
+			this->cctype->Location = System::Drawing::Point(167, 316);
+			this->cctype->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->cctype->Name = L"cctype";
-			this->cctype->Size = System::Drawing::Size(156, 21);
+			this->cctype->Size = System::Drawing::Size(207, 24);
 			this->cctype->TabIndex = 50;
 			this->cctype->SelectedIndexChanged += gcnew System::EventHandler(this, &CheckOut::cctype_SelectedIndexChanged);
 			// 
 			// label7
 			// 
 			this->label7->AutoSize = true;
-			this->label7->Location = System::Drawing::Point(24, 260);
+			this->label7->Location = System::Drawing::Point(32, 320);
+			this->label7->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label7->Name = L"label7";
-			this->label7->Size = System::Drawing::Size(89, 13);
+			this->label7->Size = System::Drawing::Size(119, 17);
 			this->label7->TabIndex = 49;
 			this->label7->Text = L"Credit Card Type:";
 			this->label7->Click += gcnew System::EventHandler(this, &CheckOut::label7_Click);
 			// 
 			// lname
 			// 
-			this->lname->Location = System::Drawing::Point(125, 85);
+			this->lname->Location = System::Drawing::Point(167, 105);
+			this->lname->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->lname->Name = L"lname";
-			this->lname->Size = System::Drawing::Size(156, 20);
+			this->lname->Size = System::Drawing::Size(207, 22);
 			this->lname->TabIndex = 48;
 			this->lname->TextChanged += gcnew System::EventHandler(this, &CheckOut::lname_TextChanged);
 			// 
 			// fname
 			// 
-			this->fname->Location = System::Drawing::Point(125, 51);
+			this->fname->Location = System::Drawing::Point(167, 63);
+			this->fname->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->fname->Name = L"fname";
-			this->fname->Size = System::Drawing::Size(156, 20);
+			this->fname->Size = System::Drawing::Size(207, 22);
 			this->fname->TabIndex = 47;
 			this->fname->TextChanged += gcnew System::EventHandler(this, &CheckOut::fname_TextChanged);
 			// 
 			// label6
 			// 
 			this->label6->AutoSize = true;
-			this->label6->Location = System::Drawing::Point(24, 195);
+			this->label6->Location = System::Drawing::Point(32, 240);
+			this->label6->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label6->Name = L"label6";
-			this->label6->Size = System::Drawing::Size(53, 13);
+			this->label6->Size = System::Drawing::Size(69, 17);
 			this->label6->TabIndex = 46;
 			this->label6->Text = L"Date Out:";
 			this->label6->Click += gcnew System::EventHandler(this, &CheckOut::label6_Click);
@@ -304,9 +320,10 @@ namespace HotelCDP {
 			// label5
 			// 
 			this->label5->AutoSize = true;
-			this->label5->Location = System::Drawing::Point(24, 161);
+			this->label5->Location = System::Drawing::Point(32, 198);
+			this->label5->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label5->Name = L"label5";
-			this->label5->Size = System::Drawing::Size(45, 13);
+			this->label5->Size = System::Drawing::Size(57, 17);
 			this->label5->TabIndex = 45;
 			this->label5->Text = L"Date In:";
 			this->label5->Click += gcnew System::EventHandler(this, &CheckOut::label5_Click);
@@ -314,9 +331,10 @@ namespace HotelCDP {
 			// label4
 			// 
 			this->label4->AutoSize = true;
-			this->label4->Location = System::Drawing::Point(24, 88);
+			this->label4->Location = System::Drawing::Point(32, 108);
+			this->label4->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label4->Name = L"label4";
-			this->label4->Size = System::Drawing::Size(61, 13);
+			this->label4->Size = System::Drawing::Size(80, 17);
 			this->label4->TabIndex = 44;
 			this->label4->Text = L"Last Name:";
 			this->label4->Click += gcnew System::EventHandler(this, &CheckOut::label4_Click);
@@ -324,9 +342,10 @@ namespace HotelCDP {
 			// label3
 			// 
 			this->label3->AutoSize = true;
-			this->label3->Location = System::Drawing::Point(24, 125);
+			this->label3->Location = System::Drawing::Point(32, 154);
+			this->label3->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label3->Name = L"label3";
-			this->label3->Size = System::Drawing::Size(81, 13);
+			this->label3->Size = System::Drawing::Size(107, 17);
 			this->label3->TabIndex = 43;
 			this->label3->Text = L"Mobile Number:";
 			this->label3->Click += gcnew System::EventHandler(this, &CheckOut::label3_Click);
@@ -334,9 +353,10 @@ namespace HotelCDP {
 			// label2
 			// 
 			this->label2->AutoSize = true;
-			this->label2->Location = System::Drawing::Point(24, 54);
+			this->label2->Location = System::Drawing::Point(32, 66);
+			this->label2->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label2->Name = L"label2";
-			this->label2->Size = System::Drawing::Size(60, 13);
+			this->label2->Size = System::Drawing::Size(80, 17);
 			this->label2->TabIndex = 42;
 			this->label2->Text = L"First Name:";
 			this->label2->Click += gcnew System::EventHandler(this, &CheckOut::label2_Click);
@@ -344,9 +364,10 @@ namespace HotelCDP {
 			// label1
 			// 
 			this->label1->AutoSize = true;
-			this->label1->Location = System::Drawing::Point(24, 26);
+			this->label1->Location = System::Drawing::Point(32, 32);
+			this->label1->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label1->Name = L"label1";
-			this->label1->Size = System::Drawing::Size(70, 13);
+			this->label1->Size = System::Drawing::Size(93, 17);
 			this->label1->TabIndex = 41;
 			this->label1->Text = L"Enter Details:";
 			this->label1->Click += gcnew System::EventHandler(this, &CheckOut::label1_Click);
@@ -356,9 +377,11 @@ namespace HotelCDP {
 			this->dataGridView1->AllowUserToAddRows = false;
 			this->dataGridView1->AllowUserToDeleteRows = false;
 			this->dataGridView1->ColumnHeadersHeightSizeMode = System::Windows::Forms::DataGridViewColumnHeadersHeightSizeMode::AutoSize;
-			this->dataGridView1->Location = System::Drawing::Point(326, 26);
+			this->dataGridView1->Location = System::Drawing::Point(435, 32);
+			this->dataGridView1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->dataGridView1->Name = L"dataGridView1";
-			this->dataGridView1->Size = System::Drawing::Size(440, 368);
+			this->dataGridView1->RowHeadersWidth = 51;
+			this->dataGridView1->Size = System::Drawing::Size(587, 453);
 			this->dataGridView1->TabIndex = 40;
 			this->dataGridView1->CellClick += gcnew System::Windows::Forms::DataGridViewCellEventHandler(this, &CheckOut::dataGridView1_CellClick);
 			this->dataGridView1->CellContentClick += gcnew System::Windows::Forms::DataGridViewCellEventHandler(this, &CheckOut::dataGridView1_CellContentClick_1);
@@ -367,18 +390,20 @@ namespace HotelCDP {
 			// 
 			this->pictureBox1->BackgroundImage = (cli::safe_cast<System::Drawing::Image^>(resources->GetObject(L"pictureBox1.BackgroundImage")));
 			this->pictureBox1->BackgroundImageLayout = System::Windows::Forms::ImageLayout::Stretch;
-			this->pictureBox1->Location = System::Drawing::Point(-179, -77);
+			this->pictureBox1->Location = System::Drawing::Point(-239, -95);
+			this->pictureBox1->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->pictureBox1->Name = L"pictureBox1";
-			this->pictureBox1->Size = System::Drawing::Size(1107, 572);
+			this->pictureBox1->Size = System::Drawing::Size(1476, 704);
 			this->pictureBox1->TabIndex = 39;
 			this->pictureBox1->TabStop = false;
 			this->pictureBox1->Click += gcnew System::EventHandler(this, &CheckOut::pictureBox1_Click);
 			// 
 			// button3
 			// 
-			this->button3->Location = System::Drawing::Point(206, 390);
+			this->button3->Location = System::Drawing::Point(275, 480);
+			this->button3->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button3->Name = L"button3";
-			this->button3->Size = System::Drawing::Size(75, 23);
+			this->button3->Size = System::Drawing::Size(100, 28);
 			this->button3->TabIndex = 54;
 			this->button3->Text = L"Check Out!";
 			this->button3->UseVisualStyleBackColor = true;
@@ -386,9 +411,10 @@ namespace HotelCDP {
 			// 
 			// button4
 			// 
-			this->button4->Location = System::Drawing::Point(27, 390);
+			this->button4->Location = System::Drawing::Point(36, 480);
+			this->button4->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button4->Name = L"button4";
-			this->button4->Size = System::Drawing::Size(75, 23);
+			this->button4->Size = System::Drawing::Size(100, 28);
 			this->button4->TabIndex = 55;
 			this->button4->Text = L"Back";
 			this->button4->UseVisualStyleBackColor = true;
@@ -396,17 +422,19 @@ namespace HotelCDP {
 			// 
 			// cvcode
 			// 
-			this->cvcode->Location = System::Drawing::Point(125, 357);
+			this->cvcode->Location = System::Drawing::Point(167, 439);
+			this->cvcode->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->cvcode->Name = L"cvcode";
-			this->cvcode->Size = System::Drawing::Size(156, 20);
+			this->cvcode->Size = System::Drawing::Size(207, 22);
 			this->cvcode->TabIndex = 64;
 			this->cvcode->TextChanged += gcnew System::EventHandler(this, &CheckOut::ccode_TextChanged);
 			// 
 			// button5
 			// 
-			this->button5->Location = System::Drawing::Point(674, 405);
+			this->button5->Location = System::Drawing::Point(899, 498);
+			this->button5->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->button5->Name = L"button5";
-			this->button5->Size = System::Drawing::Size(92, 23);
+			this->button5->Size = System::Drawing::Size(123, 28);
 			this->button5->TabIndex = 66;
 			this->button5->Text = L"Modify Booking";
 			this->button5->UseVisualStyleBackColor = true;
@@ -415,59 +443,65 @@ namespace HotelCDP {
 			// text
 			// 
 			this->text->AutoSize = true;
-			this->text->Location = System::Drawing::Point(334, 407);
+			this->text->Location = System::Drawing::Point(445, 501);
+			this->text->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->text->Name = L"text";
-			this->text->Size = System::Drawing::Size(34, 13);
+			this->text->Size = System::Drawing::Size(44, 17);
 			this->text->TabIndex = 67;
 			this->text->Text = L"Total:";
 			// 
 			// label11
 			// 
 			this->label11->AutoSize = true;
-			this->label11->Location = System::Drawing::Point(24, 229);
+			this->label11->Location = System::Drawing::Point(32, 282);
+			this->label11->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label11->Name = L"label11";
-			this->label11->Size = System::Drawing::Size(86, 13);
+			this->label11->Size = System::Drawing::Size(114, 17);
 			this->label11->TabIndex = 69;
 			this->label11->Text = L"Number of Days:";
 			// 
 			// txtNoOFdays
 			// 
-			this->txtNoOFdays->Location = System::Drawing::Point(125, 224);
+			this->txtNoOFdays->Location = System::Drawing::Point(167, 276);
+			this->txtNoOFdays->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->txtNoOFdays->Name = L"txtNoOFdays";
-			this->txtNoOFdays->Size = System::Drawing::Size(156, 20);
+			this->txtNoOFdays->Size = System::Drawing::Size(207, 22);
 			this->txtNoOFdays->TabIndex = 63;
 			this->txtNoOFdays->TextChanged += gcnew System::EventHandler(this, &CheckOut::ccnum_TextChanged);
 			// 
 			// label12
 			// 
 			this->label12->AutoSize = true;
-			this->label12->Location = System::Drawing::Point(480, 407);
+			this->label12->Location = System::Drawing::Point(640, 501);
+			this->label12->Margin = System::Windows::Forms::Padding(4, 0, 4, 0);
 			this->label12->Name = L"label12";
-			this->label12->Size = System::Drawing::Size(65, 13);
+			this->label12->Size = System::Drawing::Size(85, 17);
 			this->label12->TabIndex = 71;
 			this->label12->Text = L"Room Type:";
 			// 
 			// roomtype
 			// 
-			this->roomtype->Location = System::Drawing::Point(551, 404);
+			this->roomtype->Location = System::Drawing::Point(735, 497);
+			this->roomtype->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->roomtype->Name = L"roomtype";
-			this->roomtype->Size = System::Drawing::Size(78, 20);
+			this->roomtype->Size = System::Drawing::Size(103, 22);
 			this->roomtype->TabIndex = 72;
 			this->roomtype->TextChanged += gcnew System::EventHandler(this, &CheckOut::textBox1_TextChanged_2);
 			// 
 			// btotal
 			// 
-			this->btotal->Location = System::Drawing::Point(374, 403);
+			this->btotal->Location = System::Drawing::Point(499, 496);
+			this->btotal->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->btotal->Name = L"btotal";
-			this->btotal->Size = System::Drawing::Size(78, 20);
+			this->btotal->Size = System::Drawing::Size(103, 22);
 			this->btotal->TabIndex = 73;
 			this->btotal->TextChanged += gcnew System::EventHandler(this, &CheckOut::btotal_TextChanged);
 			// 
 			// CheckOut
 			// 
-			this->AutoScaleDimensions = System::Drawing::SizeF(6, 13);
+			this->AutoScaleDimensions = System::Drawing::SizeF(8, 16);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(778, 440);
+			this->ClientSize = System::Drawing::Size(1037, 542);
 			this->Controls->Add(this->btotal);
 			this->Controls->Add(this->roomtype);
 			this->Controls->Add(this->label12);
@@ -502,9 +536,10 @@ namespace HotelCDP {
 			this->Controls->Add(this->dataGridView1);
 			this->Controls->Add(this->pictureBox1);
 			this->FormBorderStyle = System::Windows::Forms::FormBorderStyle::FixedSingle;
+			this->Margin = System::Windows::Forms::Padding(4, 4, 4, 4);
 			this->Name = L"CheckOut";
 			this->StartPosition = System::Windows::Forms::FormStartPosition::CenterScreen;
-			this->Text = L"CheckOut";
+			this->Text = L"Check Out";
 			this->Load += gcnew System::EventHandler(this, &CheckOut::CheckOut_Load);
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->dataGridView1))->EndInit();
 			(cli::safe_cast<System::ComponentModel::ISupportInitialize^>(this->pictureBox1))->EndInit();
@@ -513,7 +548,7 @@ namespace HotelCDP {
 
 		}
 #pragma endregion
-		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=amen";
+		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=admin1234";
 		MySqlConnection^ conn = gcnew MySqlConnection(connString);
 		
 		void populateTable() {

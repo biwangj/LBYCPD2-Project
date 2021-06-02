@@ -1,107 +1,56 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (HotelCDP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  AddRoom.cpp
+﻿  BookRoom.cpp
   The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
-  adminlogin.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
-  AdminMenu.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
-  adminreg.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
-  BookRoom.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(479,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(528,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(542,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(597,21): warning C4101: 'e': unreferenced local variable
-  BookWindow.cpp
-  CheckOut.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(529,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(539,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(610,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(688,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(728,20): warning C4101: 'e': unreferenced local variable
-  DeleteRoom.cpp
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(493,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(548,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(562,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(577,24): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(645,21): warning C4101: 'e': unreferenced local variable
   LoginForm.cpp
   The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\RegisterForm.h(264,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(479,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(528,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(542,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(597,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(529,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(539,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(610,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(688,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(728,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewBooking.h(131,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\LoginForm.h(273,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\RegisterForm.h(264,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(493,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(548,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(562,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(577,24): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(645,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(529,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(539,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(610,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(688,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(728,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ViewBooking.h(131,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\LoginForm.h(273,21): warning C4101: 'e': unreferenced local variable
   MenuForm.cpp
   The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(479,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(528,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(542,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\BookRoom.h(597,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(529,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(539,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(610,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(688,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\CheckOut.h(728,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewBooking.h(131,21): warning C4101: 'e': unreferenced local variable
-  ModifyRoom.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
-  RegisterForm.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\RegisterForm.h(264,22): warning C4101: 'e': unreferenced local variable
-  ViewBooking.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewBooking.h(131,21): warning C4101: 'e': unreferenced local variable
-  ViewRoom.cpp
-  The contents of <any> are available only with C++17 or later.
-C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\adminreg.h(249,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\AddRoom.h(324,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ViewRoom.h(158,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(294,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(308,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(340,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(382,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ModifyRoom.h(400,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\adminlogin.h(225,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(493,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(548,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(562,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(577,24): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\BookRoom.h(645,21): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(529,22): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(539,17): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(610,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(688,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\CheckOut.h(728,20): warning C4101: 'e': unreferenced local variable
+F:\Download\New folder (2)\HotelCDP4\HotelCDP\ViewBooking.h(131,21): warning C4101: 'e': unreferenced local variable
   Generating Code...
   AddRoom.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
-  HotelCDP.vcxproj -> C:\Users\JHUNGIE\OneDrive\Desktop\JB\DLSU\2nd Year\Term 2\LBYCPD2\HotelCPD2\x64\Debug\HotelCPD2.exe
+  HotelCDP.vcxproj -> F:\Download\New folder (2)\HotelCDP4\x64\Debug\HotelCDP.exe

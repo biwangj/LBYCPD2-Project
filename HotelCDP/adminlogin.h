@@ -190,7 +190,7 @@ namespace HotelCDP {
 
 		}
 #pragma endregion
-		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=amen";
+		String^ connString = "Server=localhost;port=3306;database=hoteldb;uid=root;password=admin1234";
 		MySqlConnection^ conn = gcnew MySqlConnection(connString);
 	private: System::Void label1_Click(System::Object^ sender, System::EventArgs^ e) {
 
